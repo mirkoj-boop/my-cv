@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - CV</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Email: <a href="mailto:your.email@example.com">your.email@example.com</a></p>
+        <p>Phone: (123) 456-7890</p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile/">yourprofile</a></p>
+    </header>
+    <main>
+        <section>
+            <h2>About Me</h2>
+            <p>Brief introduction about yourself.</p>
+        </section>
+        <section>
+            <h2>Experience</h2>
+            <ul>
+                <li>
+                    <h3>Job Title - Company Name</h3>
+                    <p>Duration: Jan 2020 - Present</p>
+                    <p>Describe your responsibilities and achievements.</p>
+                </li>
+                <!-- Add more job experiences as needed -->
+            </ul>
+        </section>
+        <section>
+            <h2>Education</h2>
+            <ul>
+                <li>
+                    <h3>Degree - University</h3>
+                    <p>Duration: 2015 - 2019</p>
+                    <p>Describe your studies and achievements.</p>
+                </li>
+                <!-- Add more educational qualifications as needed -->
+            </ul>
+        </section>
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>Skill 1</li>
+                <li>Skill 2</li>
+                <!-- Add more skills as needed -->
+            </ul>
+        </section>
+        <section>
+            <h2>Projects</h2>
+            <ul>
+                <li>
+                    <h3>Project Title</h3>
+                    <p>Brief description of the project.</p>
+                    <p>Link: <a href="https://github.com/yourusername/projectname">GitHub Repository</a></p>
+                </li>
+                <!-- Add more projects as needed -->
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Your Name</p>
+    </footer>
+</body>
+</html>
